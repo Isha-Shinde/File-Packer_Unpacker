@@ -1,11 +1,11 @@
 //////////////////////////////////
-// Final Packing Code
+// Packing file
 //////////////////////////////////
 
 import java.io.*;                                                                                                                                                                                                                                                                                                                                                                                                                                    
 import javax.swing.*;
 
-class program728X
+class Packer
 {
     //////////////// GUI Method ////////////////////////
     public static void main(String A[]) 

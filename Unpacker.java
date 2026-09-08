@@ -1,7 +1,11 @@
+//////////////////////////////////
+// Unpacking file
+//////////////////////////////////
+
 import java.io.*;
 import javax.swing.*;
 
-class program733X
+class Unpacker
 {
     public static void main(String A[]) throws Exception
     {
