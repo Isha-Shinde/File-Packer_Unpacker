@@ -19,7 +19,6 @@ In case of Unpacking activity we extract all data from packed files and accordin
 - Features provided by File Packer_Unpacker : This project is divided into two parts as Paking and Unpacking.
 
 # Packing Activity : 
-https://github.com/Isha-Shinde/File-Packer_Unpacker/tree/main
 - In case of Packing activity we accept directory name and file name from user.
 - We have to create new regular file as the name specified by the user.
 - Now open the directory and traverse each file from that directory. In newly created file write Metadata as header and actual file data in sequence.
@@ -36,3 +35,4 @@ https://github.com/Isha-Shinde/File-Packer_Unpacker/tree/main
                      - Repeated all above steps till we reached at end of the unpacked file.
 
 # Project Architecture
+https://github.com/Isha-Shinde/File-Packer_Unpacker/tree/main
