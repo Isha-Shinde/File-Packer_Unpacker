@@ -11,11 +11,16 @@ To reduce unnecessary memory usage by processing files using buffers.
 To understand file handling and data organization in Java.
 To provide a simple GUI-based interface.
 
-# Platform required: Windows NT platform OR Linux.
-# Architectural requirement: Intel 32 bit processor.
-# User interface: Graphical User Interface
-# Technology Used : Java Programming 
-# Features provided by File Packer_Unpacker : This project is divided into two parts as Paking and Unpacking.
+# Platform required:
+Windows NT platform OR Linux.
+# Architectural requirement:
+Intel 32 bit processor.
+# User interface: 
+Graphical User Interface
+# Technology Used :
+Java Programming 
+# Features provided by File Packer_Unpacker : 
+This project is divided into two parts as Paking and Unpacking.
 
 # Packing Activity : 
 • In case of Packing activity we accept directory name and file name from user.
